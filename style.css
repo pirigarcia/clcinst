@@ -53,6 +53,12 @@ span {
     justify-content: right;
     gap: 20px;
     margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    font-size: 12px;
+    font-weight: bold;
+
 }
 
 nav a {
@@ -72,4 +78,100 @@ nav a:hover {
     margin-top: 20px;
     margin-bottom: 20px;
 }           
+
+.contact-link {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}   
+
+.contact-link:hover {
+    color: #ff0000;
+}   
+
+.contact-link:active {
+    color: #ff0000;
+}   
+
+.contact-link:focus {
+    color: #ff0000;
+}   
+
+.contact-link:visited {
+    color: #ff0000;
+}   
+
+.footer {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}   
+
+
+
+.instagram-link {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+.instagram-link:hover {
+
+    color: #ff0000;
+}
+
+.facebook-link {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+.facebook-link:hover {
+    color: #ff0000;
+}
+
+.footer-text {
+    font-size: 12px;
+    color: #666;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+.button {
+    background-color: #ff0000;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #fefbfb;
+    color: #fff;
+}
+
+.button:active {
+    background-color: #ff0000;
+    color: #fff;
+}
+
+.phone-link {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    font-size: 20px;
+   
+}   
+
+.phone-link:hover {
+    color: #ff0000;
+}
 
